@@ -1,5 +1,6 @@
 function main() {
-  const code1 = 7 + 3;
+  let code1;
+  code1 = 7 + 3;
   const code2 = (40 - -79960) / 2000;
   const code3 = 39 % 40;
   const message = "The vault has been secured. The combination is:";
